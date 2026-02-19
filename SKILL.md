@@ -4,7 +4,8 @@ description: Trace any problem to its root cause by distinguishing symptoms from
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4875
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - root-cause-diagnosis
 - writing
